@@ -2,7 +2,7 @@
 A WebApp for Jokes.
 
 ## ASP .NET Core WebAPI.
-This is a simple demo Application using ASP.NET Core, SQL Server and EntityFramework Core. Rest Api to perform CRUD operations agains a SQL Database.
+This is a simple demo Application using ASP.NET Core, SQL Server and EntityFramework Core. Rest Api to perform CRUD operations against a SQL Database.
 
 ## Includes
 - MVC (Model View Controller) design pattern.
